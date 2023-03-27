@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/action/down_vote</title>
+    <g id="Icons/action/down_vote" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Size" fill="#D8D8D8" opacity="0" x="0" y="0" width="24" height="24"></rect>
+        <path d="M13,18.5825 L13,7.4125 L17.88,12.2925 C18.27,12.6825 18.91,12.6825 19.3,12.2925 C19.69,11.9025 19.69,11.2725 19.3,10.8825 L12.71,4.2925 C12.32,3.9025 11.69,3.9025 11.3,4.2925 L4.7,10.8725 C4.31,11.2625 4.31,11.8925 4.7,12.2825 C5.09,12.6725 5.72,12.6725 6.11,12.2825 L11,7.4125 L11,18.5825 C11,19.1325 11.45,19.5825 12,19.5825 C12.55,19.5825 13,19.1325 13,18.5825 Z" id="Path" fill-opacity="0.6" fill="#000000" transform="translate(12.000000, 11.791250) rotate(-180.000000) translate(-12.000000, -11.791250) "></path>
+    </g>
+</svg>

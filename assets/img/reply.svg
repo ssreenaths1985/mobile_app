@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/content/reply</title>
+    <g id="Icons/content/reply" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Size" fill="#D8D8D8" opacity="0" x="0" y="0" width="24" height="24"></rect>
+        <path d="M10,9 L10,7.41 C10,6.52 8.92,6.07 8.29,6.7 L3.7,11.29 C3.31,11.68 3.31,12.31 3.7,12.7 L8.29,17.29 C8.92,17.92 10,17.48 10,16.59 L10,14.9 C15,14.9 18.5,16.5 21,20 C20,15 17,10 10,9 Z" id="Path" fill-opacity="0.6" fill="#000000"></path>
+    </g>
+</svg>

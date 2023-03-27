@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/File types/excel</title>
+    <g id="Icons/File-types/excel" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Size" fill="#D8D8D8" opacity="0" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group" transform="translate(-0.000000, -0.000000)">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+            <polygon id="Path" fill="#EFEEEE" fill-rule="nonzero" points="5 2 5 22 16.9 22 22 17 22 2"></polygon>
+            <polygon id="Path-85-Copy" fill="#B8B8B8" fill-rule="nonzero" points="16 6 16 7 13 7 13 6"></polygon>
+            <polygon id="Path-85-Copy-3" fill="#B8B8B8" fill-rule="nonzero" points="20 6 20 7 17 7 17 6"></polygon>
+            <polygon id="Path-85" fill="#B8B8B8" fill-rule="nonzero" points="16 8 16 9 13 9 13 8"></polygon>
+            <polygon id="Path-85-Copy-4" fill="#B8B8B8" fill-rule="nonzero" points="20 8 20 9 17 9 17 8"></polygon>
+            <polygon id="Path-85-Copy-2" fill="#B8B8B8" fill-rule="nonzero" points="16 10 16 11 13 11 13 10"></polygon>
+            <polygon id="Path-85-Copy-6" fill="#B8B8B8" fill-rule="nonzero" points="16 12 16 13 13 13 13 12"></polygon>
+            <polygon id="Path-85-Copy-5" fill="#B8B8B8" fill-rule="nonzero" points="20 10 20 11 17 11 17 10"></polygon>
+            <polygon id="Path-85-Copy-7" fill="#B8B8B8" fill-rule="nonzero" points="20 12 20 13 17 13 17 12"></polygon>
+            <polygon id="Path-86" fill="#61B565" points="2 6.20629745 2 17.3293443 10.750657 18.7062974 10.750657 5"></polygon>
+            <polygon id="Path" fill="#ABABAB" fill-rule="nonzero" points="17 17 17 22 22 17"></polygon>
+            <polygon id="Path" fill="#DEDEDD" fill-rule="nonzero" points="12 22 17 22 17 17"></polygon>
+            <path d="M4.73814898,16 L5.85778781,13.7398884 C5.93604214,13.5218503 5.98570354,13.3591353 6.00677201,13.2517434 L6.00677201,13.2517434 L6.0248307,13.2517434 C6.06997743,13.4795444 6.11361926,13.6357508 6.15575621,13.7203626 L6.15575621,13.7203626 L7.27088036,16 L9,16 L7.00451467,12.4707113 L8.94582393,9 L7.32054176,9 L6.29119639,11.0794979 C6.19187359,11.3496048 6.1241535,11.5529986 6.08803612,11.6896792 L6.08803612,11.6896792 L6.06997743,11.6896792 C6.01279157,11.4618782 5.94808126,11.264993 5.8758465,11.0990237 L5.8758465,11.0990237 L4.9503386,9 L3.17607223,9 L5.06320542,12.5 L3,16 L4.73814898,16 Z" id="X" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <g id="Group-6" transform="translate(2.000000, 5.000000)"></g>
+        </g>
+    </g>
+</svg>

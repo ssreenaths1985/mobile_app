@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/File types/ppt</title>
+    <g id="Icons/File-types/ppt" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Size" fill="#D8D8D8" opacity="0" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+            <polygon id="Path" fill="#EFEEEE" fill-rule="nonzero" points="5 2 5 22 16.9 22 22 17 22 2"></polygon>
+            <polygon id="Path" fill="#ABABAB" fill-rule="nonzero" points="17 17 17 22 22 17"></polygon>
+            <polygon id="Path" fill="#DEDEDD" fill-rule="nonzero" points="12 22 17 22 17 17"></polygon>
+            <g id="Group-6-Copy" transform="translate(2.000000, 5.000000)" fill="#CB7B29">
+                <polygon id="Path-86" points="-2.42472709e-13 1.20629745 -2.42472709e-13 12.3293443 8.75065704 13.7062974 8.75065704 4.14339579e-14"></polygon>
+            </g>
+            <path d="M13,12 C15.209139,12 17,10.209139 17,8 C17,5.790861 15.209139,4 13,4 C13.0069933,7.86464722 13.0115198,8.08670969 13,12 Z" id="Oval" fill="#B8B8B8"></path>
+            <polygon id="Path" fill="#B8B8B8" fill-rule="nonzero" points="19 13 19 14 13 14 13 13"></polygon>
+            <polygon id="Path" fill="#B8B8B8" fill-rule="nonzero" points="19 15 19 16 13 16 13 15"></polygon>
+            <path d="M5.41943359,15.3017578 L5.41943359,13.1308594 L6.09619141,13.1308594 C6.85791016,13.1308594 7.46655273,12.9353027 7.92211914,12.5441895 C8.37768555,12.1530762 8.60546875,11.6411133 8.60546875,11.0083008 C8.60546875,9.66943359 7.81152344,9 6.22363281,9 L6.22363281,9 L4,9 L4,15.3017578 L5.41943359,15.3017578 Z M5.97753906,12.0541992 L5.41943359,12.0541992 L5.41943359,10.0898438 L5.97753906,10.0898438 C6.73339844,10.0898438 7.11132812,10.4135742 7.11132812,11.0610352 C7.11132812,11.7231445 6.73339844,12.0541992 5.97753906,12.0541992 L5.97753906,12.0541992 Z" id="P" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

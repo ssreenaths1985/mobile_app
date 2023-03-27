@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/File types/doc</title>
+    <g id="Icons/File-types/doc" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Size" fill="#D8D8D8" opacity="0" x="0" y="0" width="24" height="24"></rect>
+        <g id="Group">
+            <polygon id="Path" fill="#EFEEEE" fill-rule="nonzero" points="5 2 5 22 16.9 22 22 17 22 2"></polygon>
+            <polygon id="Path-85-Copy" fill="#B8B8B8" fill-rule="nonzero" points="19 6 19 7 13 7 13 6"></polygon>
+            <polygon id="Path-85" fill="#B8B8B8" fill-rule="nonzero" points="19 8 19 9 13 9 13 8"></polygon>
+            <polygon id="Path-85-Copy-2" fill="#B8B8B8" fill-rule="nonzero" points="19 10 19 11 13 11 13 10"></polygon>
+            <polygon id="Path-85-Copy-3" fill="#B8B8B8" fill-rule="nonzero" points="19 12 19 13 13 13 13 12"></polygon>
+            <g id="Group-6" transform="translate(2.000000, 5.000000)" fill="#4E95D0">
+                <polygon id="Path-86" points="-2.42472709e-13 1.20629745 -2.42472709e-13 12.3293443 9 13.7062974 9 4.15891231e-14"></polygon>
+            </g>
+            <polygon id="Path" fill="#ABABAB" fill-rule="nonzero" points="17 17 17 22 22 17"></polygon>
+            <polygon id="Path" fill="#DEDEDD" fill-rule="nonzero" points="12 22 17 22 17 17"></polygon>
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+            <path d="M5.59643917,15 L6.44114738,11.7921897 C6.48038246,11.6457462 6.51038576,11.4586239 6.53115727,11.2308229 L6.53115727,11.2308229 L6.54500495,11.2308229 C6.55423673,11.4377034 6.58077811,11.6248257 6.62462908,11.7921897 L6.62462908,11.7921897 L7.44856578,15 L8.68793274,15 L10,10 L8.87141444,10 L8.1859545,13.3368201 C8.14671942,13.5251046 8.12248599,13.7110646 8.1132542,13.8947001 L8.1132542,13.8947001 L8.09940653,13.8947001 C8.07632707,13.6599256 8.04978569,13.4809391 8.01978239,13.3577406 L8.01978239,13.3577406 L7.20623145,10 L6.00840752,10 L5.10830861,13.3158996 C5.05060996,13.5274291 5.01714474,13.7226871 5.00791296,13.9016736 L5.00791296,13.9016736 L4.98714144,13.9016736 C4.97329377,13.6622501 4.95136828,13.4716411 4.92136499,13.3298466 L4.92136499,13.3298466 L4.22205737,10 L3,10 L4.30514342,15 L5.59643917,15 Z" id="W" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

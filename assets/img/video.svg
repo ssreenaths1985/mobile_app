@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/File types/video</title>
+    <g id="Icons/File-types/video" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <rect id="Size" fill="#D8D8D8" opacity="0" x="0" y="0" width="24" height="24"></rect>
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+            <rect id="Rectangle" fill="#377AB4" x="3" y="5" width="18" height="13" rx="1"></rect>
+            <path d="M10.0487442,8.93516277 L10.0487442,13.9909269 C10.0487442,14.2670692 10.2726018,14.4909269 10.5487442,14.4909269 C10.6345768,14.4909269 10.7189642,14.468831 10.7937827,14.4267664 L15.2339302,11.930419 C15.4746377,11.795088 15.5600623,11.4902485 15.4247313,11.2495409 C15.380711,11.1712439 15.3164116,11.1062511 15.2385914,11.0613935 L10.7984439,8.50197681 C10.5592019,8.36407149 10.2534636,8.4462211 10.1155582,8.6854631 C10.0717855,8.76140125 10.0487442,8.84751201 10.0487442,8.93516277 Z" id="Path" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

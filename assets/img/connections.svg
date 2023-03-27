@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150px" height="120px" viewBox="0 0 150 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Illustrations/Mobile/Empty/connections</title>
+    <g id="Illustrations/Mobile/Empty/connections" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" x="0" y="0" width="150" height="120"></rect>
+        <g id="Group" transform="translate(38.000000, 17.180676)">
+            <rect id="Rectangle" fill="#C8C8C8" x="0" y="0" width="74" height="62.2222222" rx="4"></rect>
+            <g id="connections_empty" transform="translate(9.000000, 12.524155)" fill="#DEDEDF" fill-rule="nonzero">
+                <path d="M43.5555556,15.3739612 C43.5555556,6.896759 36.5773333,0 28,0 C19.4226667,0 12.4444444,6.896759 12.4444444,15.3739612 C12.4444444,23.8511634 19.4226667,30.7479224 28,30.7479224 C36.5773333,30.7479224 43.5555556,23.8511634 43.5555556,15.3739612 Z M28,30.7479224 C12.5608,30.7479224 0,43.1620886 0,58.4210526 L0,61.3027479 C0,62.1768089 0.376237037,63.0094626 1.03496296,63.5926482 C8.61321481,70.3038947 18.1896296,74 28,74 C37.8105778,74 47.3869926,70.3038947 54.965037,63.5926482 C55.623763,63.0094626 56,62.1766039 56,61.3027479 L56,58.4210526 C56,43.1620886 43.4392,30.7479224 28,30.7479224 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

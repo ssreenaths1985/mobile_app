@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="412px" height="741px" viewBox="0 0 412 741" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Coming soon_background</title>
+    <defs>
+        <filter x="-59.1%" y="-6.3%" width="218.2%" height="112.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="7" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="48.5127154%" y1="-39.6594519%" x2="48.5127154%" y2="134.870311%" id="linearGradient-2">
+            <stop stop-color="#063366" offset="0%"></stop>
+            <stop stop-color="#5383B9" offset="45.3984799%"></stop>
+            <stop stop-color="#5887BE" offset="60.9151384%"></stop>
+            <stop stop-color="#0C54A8" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-57.1%" y="-463.6%" width="214.2%" height="1027.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="17" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Galaxy-s10+-(412x869)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Coming-soon_background">
+            <polygon id="Path-7-Copy" fill="#FFFFFF" opacity="0.464542934" filter="url(#filter-1)" points="186.599016 150.229588 204.370725 482.229588 222.142434 150.229588"></polygon>
+            <g id="Group" transform="translate(205.427778, 76.500000) scale(-1, 1) translate(-205.427778, -76.500000) translate(172.927778, 0.000000)">
+                <path d="M32.946527,91.5565438 L32,91.5565438 C22.7902225,93.2904561 15.3045964,97.3368268 9.54312178,103.695656 C0.29641728,113.901066 -2.40252263e-13,146.086272 1,149.474336 C4.32790696,153 25.7853413,152 32.6715394,152 C39.5577374,152 60.7121918,151.233238 64.8362355,149.474336 C65.3515649,143.487051 65.1959763,113.404839 55.9160809,103.695656 C49.7294839,97.2228671 42.072966,93.1764964 32.946527,91.5565438 Z" id="Path-3-Copy-3" fill="url(#linearGradient-2)"></path>
+                <polygon id="Path-4-Copy" fill="#034972" fill-rule="nonzero" points="33.869896 0 34 91.9996622 31.130104 92 31 0.000337834838"></polygon>
+                <ellipse id="Oval" fill="#FFFFFF" cx="33" cy="150" rx="32" ry="3"></ellipse>
+            </g>
+            <polygon id="Path-6-Copy" fill="#FFFFFF" opacity="0.671231951" filter="url(#filter-3)" points="172.860472 150.32333 160.230566 161 249.558459 161 236.860472 150"></polygon>
+        </g>
+    </g>
+</svg>

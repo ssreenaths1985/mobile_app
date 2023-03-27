@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="430px" height="146px" viewBox="0 0 430 146" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>tags_bg</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="412" height="128"></rect>
+        <filter x="-3.5%" y="-9.8%" width="107.0%" height="122.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Galaxy-s10+-(412x869)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tags_bg" transform="translate(9.000000, 7.000000)">
+            <g id="Rectangle-Copy">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <path d="M0,104 C23.9568651,95.4279887 47.5157026,92.761322 70.6765124,96 C105.417727,100.858017 126.528768,104.38921 177.339327,104 C228.149885,103.61079 276.352904,76.5539211 325.619314,76.5539211 C358.463588,76.5539211 387.25715,81.5429577 412,91.5210309 L412,128 L0,128 L0,104 Z" id="Path-6-Copy" fill="#0074B6" opacity="0.2"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+    <defs>
+        <radialGradient id="759vegt9ia" cx="15.432%" cy="8.005%" r="121.657%" fx="15.432%" fy="8.005%" gradientTransform="matrix(.66245 .74859 -.74792 .66304 .112 -.089)">
+            <stop offset="0%" stop-color="#FFD4A8"/>
+            <stop offset="32.549%" stop-color="#FFD7B3"/>
+            <stop offset="100%" stop-color="#E6875B"/>
+        </radialGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g transform="translate(-148 -269) translate(44.633 269.847) translate(104.144)">
+                    <ellipse cx="53.789" cy="53.741" fill="url(#759vegt9ia)" rx="53.789" ry="53.741"/>
+                    <g fill="#7E4A1F" transform="translate(29.756 50.31)">
+                        <ellipse cx="3.433" cy="3.43" rx="3.433" ry="3.43"/>
+                        <ellipse cx="42.344" cy="3.43" rx="3.433" ry="3.43"/>
+                        <path d="M4.383 22.048c8.648-5.244 15.198-7.866 19.65-7.866 4.452 0 10.873 2.622 19.261 7.866-6.427-3.105-12.848-4.658-19.26-4.658-6.414 0-12.964 1.553-19.65 4.658z"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

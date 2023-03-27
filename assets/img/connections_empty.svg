@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="86px" height="86px" viewBox="0 0 86 86" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>connections_empty</title>
+    <defs>
+        <linearGradient x1="14.5606192%" y1="3.59640212%" x2="96.8412344%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#B6D8FF" offset="0%"></stop>
+            <stop stop-color="#6098C4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#ADDCFF" offset="0%"></stop>
+            <stop stop-color="#EAF6FF" offset="50.28%"></stop>
+            <stop stop-color="#EAF6FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Network---requests---none" transform="translate(-137.000000, -224.000000)" fill-rule="nonzero">
+            <g id="connections_empty" transform="translate(137.000000, 224.000000)">
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="43" cy="43" r="43"></circle>
+                <path d="M56.7777778,28.6731302 C56.7777778,21.6851662 51.0456667,16 44,16 C36.9543333,16 31.2222222,21.6851662 31.2222222,28.6731302 C31.2222222,35.6610942 36.9543333,41.3462604 44,41.3462604 C51.0456667,41.3462604 56.7777778,35.6610942 56.7777778,28.6731302 Z M44,41.3462604 C31.3178,41.3462604 21,51.5795596 21,64.1578947 L21,66.5333463 C21,67.253856 21.3090519,67.9402327 21.8501481,68.4209668 C28.0751407,73.9532105 35.9414815,77 44,77 C52.0586889,77 59.9250296,73.9532105 66.1498519,68.4209668 C66.6909481,67.9402327 67,67.253687 67,66.5333463 L67,64.1578947 C67,51.5795596 56.6822,41.3462604 44,41.3462604 Z" id="Shape" fill="url(#linearGradient-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
